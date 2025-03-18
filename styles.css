@@ -1,0 +1,21 @@
+.speed-indicator {
+  position: absolute;
+  top: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: rgb(0, 0, 0);
+  color: white;
+  padding: 4px 12px;
+  border-radius: 4px;
+  font-family: -apple-system, BlinkMacSystemFont, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  z-index: 9999;
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.2s;
+}
+
+.speed-indicator.visible {
+  opacity: 1;
+}
