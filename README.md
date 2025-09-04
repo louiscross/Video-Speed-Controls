@@ -57,7 +57,7 @@ function handleSpeedChange(media) {
 ## Installation
 
 ### For Users
-1. Install from the [Chrome Web Store](https://chrome.google.com/webstore/detail/YOUR_EXTENSION_ID)
+1. Install from the [Chrome Web Store](https://chromewebstore.google.com/detail/ehkhajiklomcojiphijckebakmkcmfgb?utm_source=item-share-cb)
 2. Click the extension icon to configure settings
 3. Hold left mouse button on any video to speed up playback
 
