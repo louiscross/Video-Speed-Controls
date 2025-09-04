@@ -1,5 +1,7 @@
 # SwiftPlay - Video Speed Controller
 
+<img width="640" height="400" alt="image" src="https://github.com/user-attachments/assets/66d315dd-f30e-4b7c-bb47-17ee876c99b4" />
+
 A Chrome extension that enhances video watching by providing intuitive speed controls across various streaming platforms. Simply hold down your mouse button to speed up any video - release to return to normal speed.
 
 ## Overview
